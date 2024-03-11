@@ -2,7 +2,7 @@
 
 Just a place to host my Curriculum Vitae so that it's easier to track changes.
 
-[You can take a look at the CV here.](https://git.sintan1729.uk/SinTan1729/CV/media/branch/main/CV.pdf)
+[You can take a look at the CV here.](./CV.pdf)
 
 © Sayantan Santra
 
