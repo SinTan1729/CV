@@ -10,5 +10,5 @@ Just a place to host my Curriculum Vitae so that it's easier to track changes.
 <br />
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
-[Link to the base repo.](https://git.sintan1729.uk/SinTan1729/CV)
+[Link to the base repo.](https://git.sayantansantra.com/SinTan1729/CV)
 
